@@ -8,14 +8,53 @@
 
 <br/>
 
-<!-- BADGES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=rmsrahat&style=for-the-badge&color=0369a1&label=PROFILE+VIEWS)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/rmsrahat?style=for-the-badge&color=0369a1&labelColor=0f172a&label=FOLLOWERS)
 
 </div>
 
-<br/>
+---
+
+## 🔍 Profile Scanner
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmsrahat&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmsrahat&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmsrahat&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rmsrahat&theme=github_dark&utcOffset=6" width="32%"/>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rmsrahat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=38bdf8&icon_color=2563eb&text_color=7dd3fc&ring_color=0369a1&cache_seconds=1800"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmsrahat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=7dd3fc&langs_count=8&cache_seconds=1800"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rmsrahat&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=4b5563" width="55%"/>
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rmsrahat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
 
 ---
 
@@ -38,45 +77,11 @@ const rmsRahat = {
 };
 ```
 
-<br/>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rmsrahat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=38bdf8&icon_color=2563eb&text_color=7dd3fc&ring_color=0369a1"/>
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmsrahat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=7dd3fc&langs_count=8"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=rmsrahat&theme=tokyonight&hide_border=true&background=0d1117&ring=2563eb&fire=38bdf8&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=4b5563" width="55%"/>
-
-</div>
-
-<br/>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rmsrahat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
-
-</div>
-
-<br/>
-
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-**Languages**
 
 ![PHP](https://img.shields.io/badge/PHP-1e3a5f?style=for-the-badge&logo=php&logoColor=38bdf8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1e3a5f?style=for-the-badge&logo=javascript&logoColor=38bdf8)
@@ -84,21 +89,18 @@ const rmsRahat = {
 ![C++](https://img.shields.io/badge/C++-1e3a5f?style=for-the-badge&logo=cplusplus&logoColor=38bdf8)
 ![HTML5](https://img.shields.io/badge/HTML5-1e3a5f?style=for-the-badge&logo=html5&logoColor=38bdf8)
 ![CSS3](https://img.shields.io/badge/CSS3-1e3a5f?style=for-the-badge&logo=css3&logoColor=38bdf8)
-
-**Frameworks & Tools**
-
 ![React Native](https://img.shields.io/badge/React_Native-1e3a5f?style=for-the-badge&logo=react&logoColor=38bdf8)
 ![Expo](https://img.shields.io/badge/Expo-1e3a5f?style=for-the-badge&logo=expo&logoColor=38bdf8)
-![Node.js](https://img.shields.io/badge/Node.js-1e3a5f?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8)
 ![Firebase](https://img.shields.io/badge/Firebase-1e3a5f?style=for-the-badge&logo=firebase&logoColor=38bdf8)
 ![MySQL](https://img.shields.io/badge/MySQL-1e3a5f?style=for-the-badge&logo=mysql&logoColor=38bdf8)
+![Node.js](https://img.shields.io/badge/Node.js-1e3a5f?style=for-the-badge&logo=nodedotjs&logoColor=38bdf8)
 ![Git](https://img.shields.io/badge/Git-1e3a5f?style=for-the-badge&logo=git&logoColor=38bdf8)
 ![VS Code](https://img.shields.io/badge/VS_Code-1e3a5f?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8)
 ![Figma](https://img.shields.io/badge/Figma-1e3a5f?style=for-the-badge&logo=figma&logoColor=38bdf8)
+![Linux](https://img.shields.io/badge/Linux-1e3a5f?style=for-the-badge&logo=linux&logoColor=38bdf8)
+![MATLAB](https://img.shields.io/badge/MATLAB-1e3a5f?style=for-the-badge&logo=mathworks&logoColor=38bdf8)
 
 </div>
-
-<br/>
 
 ---
 
@@ -106,11 +108,9 @@ const rmsRahat = {
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🩸 **AS Blood Bank** | Blood donor finder app for Bangladesh | React Native · Expo · Firebase | 🔨 Active |
+| 🩸 **AS Blood Bank** | Blood donor finder app for Bangladesh — connects donors with patients | React Native · Expo · Firebase | 🔨 Active |
 | 📚 **Bookstore MVC** | Full-stack bookstore with admin panel & Google Books API | PHP · MySQL · MVC | 🔨 Active |
 | 🌐 **My Portfolio** | Personal portfolio with video intro & animations | HTML · CSS · JS | ✅ Live |
-
-<br/>
 
 ---
 
@@ -124,8 +124,6 @@ const rmsRahat = {
 
 </div>
 
-<br/>
-
 ---
 
 ## 📈 Contribution Graph
@@ -135,8 +133,6 @@ const rmsRahat = {
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rmsrahat&bg_color=0d1117&color=38bdf8&line=2563eb&point=7dd3fc&area=true&area_color=0369a1&hide_border=true&custom_title=Rms+Rahat+Contribution+Graph)](https://github.com/rmsrahat)
 
 </div>
-
-<br/>
 
 ---
 
@@ -151,26 +147,6 @@ const rmsRahat = {
 </picture>
 
 </div>
-
-<br/>
-
----
-
-## 🔍 Profile Scanner
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rmsrahat&theme=github_dark" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rmsrahat&theme=github_dark" width="32%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rmsrahat&theme=github_dark" width="32%"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rmsrahat&theme=github_dark" width="32%"/>
-
-</div>
-
-<br/>
 
 ---
 
@@ -188,7 +164,6 @@ const rmsRahat = {
 
 <br/>
 
-<!-- WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0369a1&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <div align="center">
